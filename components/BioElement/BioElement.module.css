@@ -1,0 +1,29 @@
+.footerContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    padding-bottom: 45px;
+}
+
+.bioLogo {
+    width: 35px;
+    height: 35px;
+}
+
+.footerText {
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: 'DM Sans', 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.a {
+    color: white;
+    text-decoration: none;
+    font-family: 'DM Sans', 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}

@@ -1,0 +1,22 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+
+.degenText {
+  color: white;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Righteous", cursive;
+  padding-top: 100px;
+}
+
+.navbarPosition {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+}
